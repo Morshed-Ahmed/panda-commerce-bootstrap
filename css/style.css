@@ -1,0 +1,18 @@
+.panda-bg-color{
+    background-color: #feeae9;
+}
+
+.button-color{
+    background-color: #ff5599;
+    color: white;
+    padding: 9px 25px;
+    border-radius: 10px;
+}
+
+.catagoris img{
+    width: 100px;
+}
+
+.subscribe{
+    background-color: #fceae8;
+}
